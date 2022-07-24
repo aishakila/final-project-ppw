@@ -1,78 +1,76 @@
-*{
-	padding: 0;
-	margin: 0;
+* {
+  padding: 0;
+  margin: 0;
 }
-body{
-	background-color: #87cefa; 
+body {
+  background-color: #87cefa;
 }
-.about1{
-	margin: 30px;
-	padding: 5px;
+.about1 {
+  margin: 30px;
+  padding: 5px;
 }
-.about1 h1{
-	text-align: center;
-	color: black;
-	font-weight: bold;
+.about1 h1 {
+  text-align: center;
+  color: black;
+  font-weight: bold;
 }
-.about1 p{
-	text-align: center;
-	padding: 3px;
-	color: #fff;
+.about1 p {
+  text-align: center;
+  padding: 3px;
+  color: #fff;
 }
-.about-item{
-	background-color: white;
-	align-items: center;
-	box-shadow: 0 0  9px rgba(0,0,0  .6);
-	margin: 40;
-	text-align: center;
-	padding: 2rem 0;
+.about-item {
+  background-color: white;
+  align-items: center;
+  box-shadow: 0 0 9px rgba(0, 0, 0 0.6);
+  margin: 40;
+  text-align: center;
+  padding: 2rem 0;
 }
-.about-item i{
-	font-size: 43px;
-	margin: 0;
-
+.about-item i {
+  font-size: 43px;
+  margin: 0;
 }
-.about-item h3{
-	font-size: 25px;
-	margin-bottom: 10px;
-	text-align: center;
+.about-item h3 {
+  font-size: 25px;
+  margin-bottom: 10px;
+  text-align: center;
 }
-.about-item hr{
-	width: 46px;
-	height: 3px;
-	background-color: #5fbff9;
-	margin: 0 auto;
-	border: nome;
+.about-item hr {
+  width: 46px;
+  height: 3px;
+  background-color: #5fbff9;
+  margin: 0 auto;
+  border: nome;
 }
-.about-item p{
-	margin-top: 20px;
+.about-item p {
+  margin-top: 20px;
 }
-.about-item:hover{
-	background-color: #5fbff9;
-}
-.about-item:hover i,
-.about-item:hover h3,
-.about-item:hover p{
-	color: #fff;
-}
-
-.about-item:hover hr{
-	background-color: #fff;
-}
-.about-item"hover i{
-	transform: translateY(-20px);
+.about-item:hover {
+  background-color: #5fbff9;
 }
 .about-item:hover i,
 .about-item:hover h3,
-.about-item:hover p{
-	transition: all 400ms ease-in-out;
-}
-footer{
-	background: #212226;
-	padding: 20px;
-	text-align: center;
-}
-footer p{
-	color: #87cefa;
+.about-item:hover p {
+  color: #fff;
 }
 
+.about-item:hover hr {
+  background-color: #fff;
+}
+.about-item hover i {
+  transform: translateY(-20px);
+}
+.about-item:hover i,
+.about-item:hover h3,
+.about-item:hover p {
+  transition: all 400ms ease-in-out;
+}
+footer {
+  background: #212226;
+  padding: 20px;
+  text-align: center;
+}
+footer p {
+  color: #87cefa;
+}
