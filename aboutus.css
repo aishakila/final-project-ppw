@@ -66,6 +66,10 @@ body {
 .about-item:hover p {
   transition: all 400ms ease-in-out;
 }
+#content-box-lg {
+  width: 100px;
+  height: 100px;
+}
 footer {
   background: #212226;
   padding: 20px;
