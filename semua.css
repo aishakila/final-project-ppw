@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+	display: inline-block;
+	text-transform: uppercase;
+	border-bottom: 4px solid #87CEFA;
+	font-size: 50px;
+	padding-bottom: 10px;
+	margin-top: 40px;
+	font: "montserrat",sans-serif;
+}
+footer{
+	background: #212226;
+	padding: 20px;
+	text-align: center;
+}
+footer p{
+	color: #87cefa;
+}
